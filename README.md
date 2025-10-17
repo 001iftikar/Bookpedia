@@ -1,2 +1,0 @@
-# Bookpedia
-Browse books
